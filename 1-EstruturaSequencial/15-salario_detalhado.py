@@ -7,6 +7,7 @@ Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
 - o salário líquido.
 - calcule os descontos e o salário líquido, conforme a tabela abaixo"""
 
+#------------------- Código -------------------
 preco_hora = float(input("Digite quanto voce ganha por hora: R$ "))
 qtd_hora = int(input("Digite quantas horas você trabalha no mês: "))
 

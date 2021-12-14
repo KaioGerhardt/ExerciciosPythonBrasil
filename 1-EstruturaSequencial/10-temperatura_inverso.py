@@ -1,5 +1,6 @@
 """Descrição: Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit."""
 
+#------------------- Código -------------------
 temp_c = float(input("Digite uma temperatura em °C: "))
 temp_f = (temp_c * 9/5) + 32 
 

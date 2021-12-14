@@ -1,5 +1,6 @@
 """Descrição: Faça um Programa que converta metros para centímetros."""
 
+#------------------- Código -------------------
 metros = float(input("Insira a quantidade de metros: "))
 
 cent = metros * 100

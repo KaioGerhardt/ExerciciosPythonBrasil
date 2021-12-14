@@ -3,6 +3,7 @@ a - o produto do dobro do primeiro com metade do segundo .
 b - a soma do triplo do primeiro com o terceiro.
 c - o terceiro elevado ao cubo."""
 
+#------------------- Código -------------------
 n1 = int(input("Dgite o primeiro numero inteiro: "))
 n2 = int(input("Digite o segundo numero inteiro: "))
 n3 = float(input("Digite agora um numero real: "))
