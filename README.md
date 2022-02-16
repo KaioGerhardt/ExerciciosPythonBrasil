@@ -4,7 +4,7 @@ Caso queira ter acesso aos desafios e fazer você mesmo, pode entrar no site cli
 
 > ## Sumário - Lista de Resolução
 
-[Estrutura Sequencial](# Estrutura Sequencial)
-[Estrutura de Decisão](# Estrutura de Descião)
++ [Estrutura Sequencial](# Estrutura Sequencial)
++ [Estrutura de Decisão](# Estrutura de Descião)
 
 # Estrutura Sequencial
