@@ -76,3 +76,9 @@ Faça um programa que recebe o salário de um colaborador e o reajuste segundo o
 14. Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
 <img src = "./readme/14.png"></img><br>
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D ou E.
+15. Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.<br><br>
+    **Dicas:<br>**
+     - Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;<br>
+    - Triângulo Equilátero: três lados iguais;<br>
+    - Triângulo Isósceles: quaisquer dois lados iguais;<br>
+    - Triângulo Escaleno: três lados diferentes;<br>
